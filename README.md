@@ -1,1 +1,1 @@
-This app is hosted on https://dll-blog.surge.sh
+Blog application built with react and fetching data from a json file
